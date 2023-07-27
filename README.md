@@ -1,1 +1,1 @@
-This is sample CollegeApp API written by Dot Net Core Web Api.
+This is sample CollegeApp API written by Dot Net Core Web API.
